@@ -1,0 +1,19 @@
+{
+  "name":"茶茶的图标集", 
+  "description":"超爱小钱钱", 
+  "icons":[
+    {"name":"暴雪战网 Battle.net Battle", "url":"https:\/\/raw.githubusercontent.com\/bautistaclay\/ios\/master\/IconSet\/App\/Battle.net.png"},
+    {"name":"暴雪战网 Battle.net Battle", "url":"https:\/\/raw.githubusercontent.com\/bautistaclay\/ios\/master\/IconSet\/App\/BattleNet.png"},
+    {"name":"VK俄罗斯", "url":"https:\/\/raw.githubusercontent.com\/bautistaclay\/ios\/master\/IconSet\/App\/VK.png"},
+    {"name":"AppleBook 苹果读书 小说", "url":"https:\/\/raw.githubusercontent.com\/bautistaclay\/ios\/master\/IconSet\/App\/AppleBook.png"},
+    {"name":"万源阅读 wanyuanyuedu wanyuanread", "url":"https:\/\/raw.githubusercontent.com\/bautistaclay\/ios\/master\/IconSet\/App\/WanYuanRead.png"},
+    {"name":"爱阅书香 iFreeTime", "url":"https:\/\/raw.githubusercontent.com\/bautistaclay\/ios\/master\/IconSet\/App\/iFreeTime01.png"},
+    {"name":"爱阅书香 iFreeTime", "url":"https:\/\/raw.githubusercontent.com\/bautistaclay\/ios\/master\/IconSet\/App\/iFreeTime02.png"},
+    {"name":"爱阅书香 iFreeTime", "url":"https:\/\/raw.githubusercontent.com\/bautistaclay\/ios\/master\/IconSet\/App\/iFreeTime03.png"},
+    {"name":"爱阅书香 iFreeTime", "url":"https:\/\/raw.githubusercontent.com\/bautistaclay\/ios\/master\/IconSet\/App\/iFreeTime04.png"},
+    {"name":"爱阅书香 iFreeTime", "url":"https:\/\/raw.githubusercontent.com\/bautistaclay\/ios\/master\/IconSet\/App\/iFreeTime05.png"},
+    {"name":"香色闺阁 StandarReader", "url":"https:\/\/raw.githubusercontent.com\/bautistaclay\/ios\/master\/IconSet\/App\/StandarReader01.png"},
+    {"name":"香色闺阁 StandarReader", "url":"https:\/\/raw.githubusercontent.com\/bautistaclay\/ios\/master\/IconSet\/App\/StandarReader02.png"},
+    {"name":"香色闺阁 StandarReader", "url":"https:\/\/raw.githubusercontent.com\/bautistaclay\/ios\/master\/IconSet\/App\/StandarReader03.png"}
+  ]
+}
